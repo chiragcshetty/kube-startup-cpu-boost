@@ -4,5 +4,4 @@ resources:
 - manager.yaml
 images:
 - name: controller
-  newName: ghcr.io/google/kube-startup-cpu-boost
-  newTag: dev
+  newName: cshetty2/kube-startup-cpu-boost
